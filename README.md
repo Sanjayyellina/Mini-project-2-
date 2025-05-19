@@ -64,10 +64,10 @@ It offers both real-time feedback from residents and spatial coordinates for map
 
 ### 📈 Key Findings
 
-* **Noise complaints** are heavy in Manhattan and parts of Brooklyn, especially in nightlife or densely populated areas
-* **Rodent complaints**  more intense in the Bronx and northern Manhattan, suggesting persistent sanitation or infrastructure issues
-* **Illegal Parking and Blocked Driveway** issues in Queens and Brooklyn, likely due to residential street design and limited parking
-* **HEAT/HOT WATER** complaints appear most frequently in the Bronx and parts of Brooklyn, especially in lower-income, high-density neighborhoods
+
+* **Noise complaints** are heavy in Bronx and parts of Brooklyn, especially in nightlife or densely populated areas
+* **Illegal Parking and Blocked Driveway** issues in Queens and Brooklyn,Staten Island  likely due to residential street design and limited parking
+* **Encampment complaints** complaints appear most frequently in the Manhattan and parts of Brooklyn, especially in lower-income, high-density neighborhoods
 
 The maps clearly show that different types of complaints cluster in different geographic zones, reflecting localized problems and patterns in civic life.
 
